@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pa0a4hryxdwcs063?svg=true)](https://ci.appveyor.com/project/PavelAksenchenko/dz-auto-2-1)
